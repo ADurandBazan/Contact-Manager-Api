@@ -7,7 +7,7 @@ This is a .NET 7 Web API that provides a simple CRUD (Create, Read, Update, Dele
 ## Key Features:
 
 #### The API supports basic CRUD operations for managing conatct data, including creating new contact, retrieving existing contacts, updating contact information, and deleting contact.
-#### The API generate a default user for testing, allowing you to test the api using the token wich the claim nameidentifier should be the username of the user storage.
+#### The API generate a default user(jrocket@example.com) for testing, allowing you to test the api using the token wich the claim name identifier should be the username of the user storaged.
 #### The API has swagger documentation.
 
 ## API Endpoints:
